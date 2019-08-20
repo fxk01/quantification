@@ -1,0 +1,4 @@
+
+
+export const CHANGE_TO_THEME_BLUE = 'header/CHANGE_TO_THEME_BLUE';
+export const CHANGE_TO_THEME_DRAK = 'header/CHANGE_TO_THEME_DRAK';
