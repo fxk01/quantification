@@ -10,7 +10,7 @@
     "immutable": "^3.8.2",
     "jsonp": "^0.2.1",
     "jspdf": "^1.4.1",
-    "lazysizes": "^4.1.4",
+    "lazysizes": "^5.2.1",
     "lodash.clonedeep": "^4.5.0",
     "path-to-regexp": "^2.4.0",
     "prop-types": "^15.6.2",
